@@ -143,5 +143,5 @@ django_heroku.settings(locals())
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CORS_ORIGIN_WHITELIST = [
-    'https://proactiff.netlify.app/',
+    'https://proactiff.netlify.app',
 ]
